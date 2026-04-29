@@ -105,6 +105,8 @@ print("Server says:", data)
 
 # Close socket
 client_socket.close()
+
+
 ##OUTPUT##
 <img width="1914" height="1020" alt="Screenshot 2026-04-29 105448" src="https://github.com/user-attachments/assets/48b1c6f2-4eb2-49d6-a36f-be900caed5d3" />
 <img width="1900" height="1019" alt="Screenshot 2026-04-29 105546" src="https://github.com/user-attachments/assets/bfa48e29-bbbc-4dd5-ab15-10faa21d2e40" />
